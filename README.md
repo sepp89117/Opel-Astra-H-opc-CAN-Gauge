@@ -16,3 +16,5 @@ TODO
 
 As a hobby programmer, I developed this tool using CAN sniffing. It gives me a lot of joy in my vehicle.
 A video of the project will follow shortly on YouTube
+
+You are welcome to improve the code
