@@ -1,7 +1,7 @@
 # Opel-Astra-H-opc-CAN-Gauge
 Display motor data, display maximum values, read out and delete error codes, analog display
 
-Autor: Sebastian Balzer <br>
+Author: Sebastian Balzer (GER)<br>
 Version: 1.0 (19.01.2020) <br>
 Hardware: Teensy 4.0, Waveshare CAN Board SN65HVD230, ILI9341 320x240 TFT with XPT2046 Touch, LM2596 DC/DC Converter - set 5.0 Volt out <br>
 Car: Opel Astra H opc <br>
