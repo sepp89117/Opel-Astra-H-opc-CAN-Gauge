@@ -15,6 +15,6 @@ TODO
 - Test read out several trouble codes
 
 As a hobby programmer, I developed this tool using CAN sniffing. It gives me a lot of joy in my vehicle.
-A video of the project will follow shortly on YouTube
+A video of the project on YouTube: https://www.youtube.com/watch?v=h3EL3UFl1sk
 
 You are welcome to improve the code
