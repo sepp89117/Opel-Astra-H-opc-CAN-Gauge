@@ -1,6 +1,8 @@
 # Opel-Astra-H-opc-CAN-Gauge
 Display motor data, display maximum values, read out and delete error codes, analog display
 
+<b>Check the NEW VERSION https://github.com/sepp89117/Opel_Astra_H_opc_CAN-GaugeV2</b>
+
 ![](https://raw.githubusercontent.com/sepp89117/Opel-Astra-H-opc-CAN-Gauge/master/screenshot.png)<br>
 Author: Sebastian Balzer (GER)<br>
 Version: 1.0 (19.01.2020) <br>
